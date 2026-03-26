@@ -10,4 +10,3 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VeroniceRoot&color=blue)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=VeroniceRoot)
