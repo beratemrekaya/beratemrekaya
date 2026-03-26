@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://instagram.com/theveronicaroot" target="_blank">
-    <img src="https://img.shields.io/badge/theveronicaroot-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
