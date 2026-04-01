@@ -1,6 +1,4 @@
-# VulnKya
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2a0845,100:6441a5&height=200&section=header&text=VeronicaRoot&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2a0845,100:6441a5&height=200&section=header&text=VulnKya&fontSize=40&fontColor=ffffff)
 
 ## ₿ Support / Donate
 **BTC Address:**
